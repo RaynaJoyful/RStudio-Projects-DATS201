@@ -2,12 +2,6 @@
 This repository is full of a bunch of projects and assignments I created throughout my DATS201 course. 
 
 knitr::opts_chunk$set(echo = TRUE)
-# install.packages('dplyr')
-# install.packages('readr')
-# install.packages('GGally')
-# install.packages('caret')
-# install.packages('knitr')
-# install.packages('InformationValue')
 
 library(dplyr)
 library(readr)
